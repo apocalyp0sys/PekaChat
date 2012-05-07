@@ -1,0 +1,21 @@
+=UNDER DEVELOPMENT=NOTHING IS READY YET=
+
+PekaChat is going to be a simple configurable web chat system written in PHP.
+PekaChat can use various data exchange engines(-Node.js, -dklab_realplexor)
+or a PHP script. You can also use various storage engines (-MySQL, -file storage)
+or implement your own using provided interface.
+Clients can receive data via XMLHttpRequest/LongPolling or manually.
+
+PekaChat is highly configurable, but also can be easily installed  and used
+out of the box on recommended settings.
+
+Other features
+-Message filter engine, and a set of filters: smiles, foul language filter, etc.
+-Slow mode as anti-spam and anti-flood.
+-User Profile interface for integrating in existing web app.
+-History
+-Moderation
+-Various styles and templates
+
+This file was modified by JetBrains PhpStorm 4.0.1 for binding GitHub repository
+This file was modified by JetBrains PhpStorm 4.0.1 for binding GitHub repository

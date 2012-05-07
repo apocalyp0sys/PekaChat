@@ -1,0 +1,9 @@
+body {
+    font-size:11pt;
+    font-family: Helvetica, sans-serif;
+}
+
+div#msgArea p{
+    margin:2px;
+
+}
